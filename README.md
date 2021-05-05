@@ -1,2 +1,2 @@
 # test
-For Practice
+CCMS client side basic
